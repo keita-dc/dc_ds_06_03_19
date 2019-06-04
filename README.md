@@ -3,6 +3,7 @@
 # Data science fellowship 06/03/19 
 
 test test test
+another test from terminal
 
 ### Data science calendar
 
